@@ -1,0 +1,16 @@
+item.baconator.name=自动补饱食度[猪肉]
+item.cluckinator.name=自动补饱食度[鸡肉]
+item.jerkynator.name=自动补饱食度[牛肉]
+item.darkonator.name=自动补饱食度[面包]
+item.squeakenator.name=Squeakenator
+
+item.tooltip.before=&7按了 &6SHIFT&7 后，才可以吃！
+
+item.tooltip.enabled=&7工作中: &8[%s&8]
+item.tooltip.holding=&7按住: &r%s
+item.tooltip.nothing=&7无用.
+item.tooltip.accepts=&7能容纳食物:
+
+item.tooltip.bullets=&6•&7
+item.tooltip.checked.0=&4×
+item.tooltip.checked.1=&2×
